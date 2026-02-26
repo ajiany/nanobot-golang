@@ -1,0 +1,31 @@
+# Binaries
+nanobot
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test
+*.test
+*.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+bin/
+
+# Config (may contain secrets)
+.nanobot/config.json
+
+# OMC state
+.omc/

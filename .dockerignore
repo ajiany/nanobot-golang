@@ -1,0 +1,6 @@
+.git
+.omc
+dist
+*.md
+Makefile
+.gitignore
